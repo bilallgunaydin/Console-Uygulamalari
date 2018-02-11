@@ -1,0 +1,6 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\12_Console_RefOutKeywords\bin\Debug\12_Console_RefOutKeywords.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\12_Console_RefOutKeywords\bin\Debug\12_Console_RefOutKeywords.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\12_Console_RefOutKeywords\bin\Debug\12_Console_RefOutKeywords.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\12_Console_RefOutKeywords\obj\Debug\12_Console_RefOutKeywords.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\12_Console_RefOutKeywords\obj\Debug\12_Console_RefOutKeywords.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\12_Console_RefOutKeywords\obj\Debug\12_Console_RefOutKeywords.pdb

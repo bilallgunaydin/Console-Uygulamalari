@@ -1,0 +1,6 @@
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleApp\Console_Datatypes\bin\Debug\Console_Datatypes.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleApp\Console_Datatypes\obj\Debug\Console_Datatypes.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleApp\Console_Datatypes\bin\Debug\Console_Datatypes.exe
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleApp\Console_Datatypes\bin\Debug\Console_Datatypes.pdb
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleApp\Console_Datatypes\obj\Debug\Console_Datatypes.exe
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleApp\Console_Datatypes\obj\Debug\Console_Datatypes.pdb

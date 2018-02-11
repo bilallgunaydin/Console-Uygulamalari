@@ -1,0 +1,6 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\Console_Arrays\bin\Debug\Console_Arrays.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\Console_Arrays\bin\Debug\Console_Arrays.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\Console_Arrays\bin\Debug\Console_Arrays.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\Console_Arrays\obj\Debug\Console_Arrays.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\Console_Arrays\obj\Debug\Console_Arrays.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\Console_Arrays\obj\Debug\Console_Arrays.pdb

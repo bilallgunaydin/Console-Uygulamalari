@@ -1,0 +1,6 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\06_Console_Switch_Case\bin\Debug\06_Console_Switch_Case.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\06_Console_Switch_Case\bin\Debug\06_Console_Switch_Case.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\06_Console_Switch_Case\bin\Debug\06_Console_Switch_Case.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\06_Console_Switch_Case\obj\Debug\06_Console_Switch_Case.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\06_Console_Switch_Case\obj\Debug\06_Console_Switch_Case.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\06_Console_Switch_Case\obj\Debug\06_Console_Switch_Case.pdb

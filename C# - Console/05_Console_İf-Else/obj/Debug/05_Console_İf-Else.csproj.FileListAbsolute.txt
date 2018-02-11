@@ -1,0 +1,6 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\05_Console_İf-Else\bin\Debug\05_Console_İf-Else.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\05_Console_İf-Else\obj\Debug\05_Console_İf-Else.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\05_Console_İf-Else\bin\Debug\05_Console_İf-Else.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\05_Console_İf-Else\bin\Debug\05_Console_İf-Else.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\05_Console_İf-Else\obj\Debug\05_Console_İf-Else.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\05_Console_İf-Else\obj\Debug\05_Console_İf-Else.pdb

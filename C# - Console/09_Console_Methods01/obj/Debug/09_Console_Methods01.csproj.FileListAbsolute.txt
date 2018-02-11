@@ -1,0 +1,6 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\09_Console_Methods01\bin\Debug\09_Console_Methods01.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\09_Console_Methods01\bin\Debug\09_Console_Methods01.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\09_Console_Methods01\bin\Debug\09_Console_Methods01.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\09_Console_Methods01\obj\Debug\09_Console_Methods01.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\09_Console_Methods01\obj\Debug\09_Console_Methods01.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\09_Console_Methods01\obj\Debug\09_Console_Methods01.pdb

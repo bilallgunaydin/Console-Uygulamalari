@@ -1,0 +1,3 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\10_Console.Methods00\bin\Debug\10_Console.Methods00.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\10_Console.Methods00\obj\Debug\10_Console.Methods00.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\10_Console.Methods00\obj\Debug\10_Console.Methods00.pdb

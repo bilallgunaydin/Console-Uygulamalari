@@ -1,0 +1,6 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\03_Console_Operators\bin\Debug\03_Console_Operators.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\03_Console_Operators\obj\Debug\03_Console_Operators.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\03_Console_Operators\bin\Debug\03_Console_Operators.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\03_Console_Operators\bin\Debug\03_Console_Operators.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\03_Console_Operators\obj\Debug\03_Console_Operators.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\03_Console_Operators\obj\Debug\03_Console_Operators.pdb

@@ -1,0 +1,6 @@
+C:\Users\BA\documents\visual studio 2013\Projects\ConsoleApp\13_Console_RefParameters\bin\Debug\13_Console_RefParameters.exe.config
+C:\Users\BA\documents\visual studio 2013\Projects\ConsoleApp\13_Console_RefParameters\bin\Debug\13_Console_RefParameters.exe
+C:\Users\BA\documents\visual studio 2013\Projects\ConsoleApp\13_Console_RefParameters\bin\Debug\13_Console_RefParameters.pdb
+C:\Users\BA\documents\visual studio 2013\Projects\ConsoleApp\13_Console_RefParameters\obj\Debug\13_Console_RefParameters.csprojResolveAssemblyReference.cache
+C:\Users\BA\documents\visual studio 2013\Projects\ConsoleApp\13_Console_RefParameters\obj\Debug\13_Console_RefParameters.exe
+C:\Users\BA\documents\visual studio 2013\Projects\ConsoleApp\13_Console_RefParameters\obj\Debug\13_Console_RefParameters.pdb

@@ -1,0 +1,6 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\04_Console_Convertions\bin\Debug\04_Console_Convertions.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\04_Console_Convertions\bin\Debug\04_Console_Convertions.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\04_Console_Convertions\bin\Debug\04_Console_Convertions.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\04_Console_Convertions\obj\Debug\04_Console_Conventions.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\04_Console_Convertions\obj\Debug\04_Console_Convertions.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleApp\04_Console_Convertions\obj\Debug\04_Console_Convertions.pdb
