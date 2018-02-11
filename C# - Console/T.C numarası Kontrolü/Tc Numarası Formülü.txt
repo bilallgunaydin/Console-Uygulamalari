@@ -1,0 +1,9 @@
+T.C bulma : 10.Hane(((2+3+1+7+0)*7)+((2+6+7+5)*9)%10)
+	    11.Hane((2+3+1+7+0)*8)/10
+
+
+T.C Bulma : Sayının 1,3,5,7,9 hanelerindeki sayıların toplamının 7 katı ile sayının hanelerinde 2,4,6,8 hanelerindeki sayıların toplamının 9 katı'nın toplamının 10'a bölümünden kalan sayı ile 10'nuncu hanedeki sayı birbirine eşit ise ve
+	    Sayının 1,3,5,7,9 hanelerindeki sayıların toplamının 8 katının 10'a bölümünden kalan 11.hanedeki sayıyıa eşit ise, bu sayı bir T.C numarasıdır.
+
+
+
